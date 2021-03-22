@@ -1,0 +1,168 @@
+﻿Installation de l'assembly 'C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.InstallLog
+   assemblypath = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.exe
+Installation du service ServiceGSB en cours...
+Création d'une source EventLog ServiceGSB dans le journal Application...
+Restauration de l'assembly 'C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.InstallLog
+   assemblypath = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.exe
+Restauration de l'état précédent du journal des événements pour la source ServiceGSB.
+Une exception s'est produite lors de la phase de restauration du programme d'installation System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: La source est introuvable mais certains ou l'ensemble des journaux des événements n'ont pas pu faire l'objet d'une recherche. Journaux inaccessibles : Security.
+Une exception s'est produite lors de la phase de restauration de l'installation. Cette exception est ignorée et la restauration se poursuit. Cependant, l'ordinateur ne sera pas totalement restauré à son état initial à la fin de la restauration.
+Installation de l'assembly 'C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.InstallLog
+   assemblypath = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.exe
+Installation du service ServiceGSB en cours...
+Création d'une source EventLog ServiceGSB dans le journal Application...
+Restauration de l'assembly 'C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.InstallLog
+   assemblypath = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.exe
+Restauration de l'état précédent du journal des événements pour la source ServiceGSB.
+Une exception s'est produite lors de la phase de restauration du programme d'installation System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: La source est introuvable mais certains ou l'ensemble des journaux des événements n'ont pas pu faire l'objet d'une recherche. Journaux inaccessibles : Security.
+Une exception s'est produite lors de la phase de restauration de l'installation. Cette exception est ignorée et la restauration se poursuit. Cependant, l'ordinateur ne sera pas totalement restauré à son état initial à la fin de la restauration.
+Installation de l'assembly 'C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.InstallLog
+   assemblypath = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.exe
+Installation du service ServiceGSB en cours...
+Création d'une source EventLog ServiceGSB dans le journal Application...
+Restauration de l'assembly 'C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.InstallLog
+   assemblypath = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.exe
+Restauration de l'état précédent du journal des événements pour la source ServiceGSB.
+Une exception s'est produite lors de la phase de restauration du programme d'installation System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: La source est introuvable mais certains ou l'ensemble des journaux des événements n'ont pas pu faire l'objet d'une recherche. Journaux inaccessibles : Security.
+Une exception s'est produite lors de la phase de restauration de l'installation. Cette exception est ignorée et la restauration se poursuit. Cependant, l'ordinateur ne sera pas totalement restauré à son état initial à la fin de la restauration.
+Installation de l'assembly 'C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.InstallLog
+   assemblypath = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.exe
+Installation du service ServiceGSB en cours...
+Création d'une source EventLog ServiceGSB dans le journal Application...
+Restauration de l'assembly 'C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.InstallLog
+   assemblypath = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.exe
+Restauration de l'état précédent du journal des événements pour la source ServiceGSB.
+Une exception s'est produite lors de la phase de restauration du programme d'installation System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: La source est introuvable mais certains ou l'ensemble des journaux des événements n'ont pas pu faire l'objet d'une recherche. Journaux inaccessibles : Security.
+Une exception s'est produite lors de la phase de restauration de l'installation. Cette exception est ignorée et la restauration se poursuit. Cependant, l'ordinateur ne sera pas totalement restauré à son état initial à la fin de la restauration.
+Installation de l'assembly 'C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.InstallLog
+   assemblypath = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.exe
+Installation du service ServiceGSB en cours...
+Création d'une source EventLog ServiceGSB dans le journal Application...
+Restauration de l'assembly 'C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.InstallLog
+   assemblypath = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.exe
+Restauration de l'état précédent du journal des événements pour la source ServiceGSB.
+Une exception s'est produite lors de la phase de restauration du programme d'installation System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: La source est introuvable mais certains ou l'ensemble des journaux des événements n'ont pas pu faire l'objet d'une recherche. Journaux inaccessibles : Security.
+Une exception s'est produite lors de la phase de restauration de l'installation. Cette exception est ignorée et la restauration se poursuit. Cependant, l'ordinateur ne sera pas totalement restauré à son état initial à la fin de la restauration.
+Installation de l'assembly 'C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.InstallLog
+   assemblypath = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.exe
+Installation du service ServiceGSB en cours...
+Création d'une source EventLog ServiceGSB dans le journal Application...
+Restauration de l'assembly 'C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.InstallLog
+   assemblypath = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.exe
+Restauration de l'état précédent du journal des événements pour la source ServiceGSB.
+Une exception s'est produite lors de la phase de restauration du programme d'installation System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: La source est introuvable mais certains ou l'ensemble des journaux des événements n'ont pas pu faire l'objet d'une recherche. Journaux inaccessibles : Security.
+Une exception s'est produite lors de la phase de restauration de l'installation. Cette exception est ignorée et la restauration se poursuit. Cependant, l'ordinateur ne sera pas totalement restauré à son état initial à la fin de la restauration.
+Installation de l'assembly 'C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.InstallLog
+   assemblypath = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.exe
+Installation du service ServiceGSB en cours...
+Création d'une source EventLog ServiceGSB dans le journal Application...
+Restauration de l'assembly 'C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.InstallLog
+   assemblypath = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\debug\WindowsServiceGSB_PPE2.exe
+Restauration de l'état précédent du journal des événements pour la source ServiceGSB.
+Une exception s'est produite lors de la phase de restauration du programme d'installation System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: La source est introuvable mais certains ou l'ensemble des journaux des événements n'ont pas pu faire l'objet d'une recherche. Journaux inaccessibles : Security.
+Une exception s'est produite lors de la phase de restauration de l'installation. Cette exception est ignorée et la restauration se poursuit. Cependant, l'ordinateur ne sera pas totalement restauré à son état initial à la fin de la restauration.
+Installation de l'assembly 'C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.InstallLog
+   assemblypath = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.exe
+Installation du service ServiceGSB en cours...
+Le service ServiceGSB a été installé avec succès.
+Création d'une source EventLog ServiceGSB dans le journal Application...
+Validation de l'assembly 'C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.InstallLog
+   assemblypath = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.exe
+Désinstallation de l'assembly 'C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.InstallLog
+   assemblypath = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.exe
+Suppression de la source EventLog ServiceGSB.
+Le service ServiceGSB est en cours de suppression du système...
+Le service ServiceGSB a été retiré avec succès du système.
+Désinstallation de l'assembly 'C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.InstallLog
+   assemblypath = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.exe
+Suppression de la source EventLog ServiceGSB.
+Avertissement : la source ServiceGSB n'est pas inscrite sur l'ordinateur local.
+Le service ServiceGSB est en cours de suppression du système...
+Le service ServiceGSB a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.InstallLog
+   assemblypath = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.exe
+Installation du service ServiceGSB en cours...
+Création d'une source EventLog ServiceGSB dans le journal Application...
+Restauration de l'assembly 'C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.InstallLog
+   assemblypath = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.exe
+Restauration de l'état précédent du journal des événements pour la source ServiceGSB.
+Installation de l'assembly 'C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.InstallLog
+   assemblypath = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.exe
+Installation du service ServiceGSB en cours...
+Le service ServiceGSB a été installé avec succès.
+Création d'une source EventLog ServiceGSB dans le journal Application...
+Validation de l'assembly 'C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.InstallLog
+   assemblypath = C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.exe

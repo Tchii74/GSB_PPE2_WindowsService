@@ -1,0 +1,8 @@
+C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.exe.config
+C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.exe
+C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\bin\Debug\WindowsServiceGSB_PPE2.pdb
+C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\obj\Debug\WindowsServiceGSB_PPE2.ProjectInstaller.resources
+C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\obj\Debug\WindowsServiceGSB_PPE2.csproj.GenerateResource.cache
+C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\obj\Debug\WindowsServiceGSB_PPE2.csproj.CoreCompileInputs.cache
+C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\obj\Debug\WindowsServiceGSB_PPE2.exe
+C:\Users\Jannik\source\repos\WindowsServiceGSB_PPE2\obj\Debug\WindowsServiceGSB_PPE2.pdb

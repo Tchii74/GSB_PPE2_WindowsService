@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ProjetGSB</name>
+    </assembly>
+    <members>
+        <member name="T:ProjetGSB.GestionDates">
+            <summary>
+            Classe qui regroupe les méthodes de gestion des dates 
+            </summary>
+        </member>
+        <member name="M:ProjetGSB.GestionDates.#ctor">
+            <summary>
+            constructeur qui initialise une nouvelle instance de la classe GestionDates
+            </summary>
+        </member>
+        <member name="M:ProjetGSB.GestionDates.GetMoisPrecedent">
+            <summary>
+            méthode qui définie le mois précedent au mois actuel sous la forme: 01 pour janvier, 02 pour février...
+            </summary>
+            <returns>une chaine de 2 chiffres sous la forme: 01 pour janvier</returns>
+        </member>
+        <member name="M:ProjetGSB.GestionDates.GetMoisPrecedent(System.DateTime)">
+            <summary>
+            méthode qui définie le mois précedent au mois passé en paramètre sous la forme: 01 pour janvier, 02 pour février...
+            </summary>
+            <param name="date">un datetime sous la forme (2008/11/21) </param>
+            <returns>une chaine de 2 chiffres sous la forme: 01 pour janvier</returns>
+        </member>
+        <member name="M:ProjetGSB.GestionDates.RetireUnAuMois(System.Int32)">
+            <summary>
+            Méthode qui retire 1 au mois passé en paramètre
+            </summary>
+            <param name="mois"> mois auquel il faut soustraire 1</param>
+            <returns>le mois précedent au format chaine 01 pour janvier...</returns>
+        </member>
+        <member name="M:ProjetGSB.GestionDates.GetMoisSuivant">
+            <summary>
+            méthode qui définie le mois suivant au mois actuel sous la forme: 01 pour janvier, 02 pour février...
+            </summary>
+            <returns>une chaine de 2 chiffres sous la forme: 01 pour janvier</returns>
+        </member>
+        <member name="M:ProjetGSB.GestionDates.GetMoisSuivant(System.DateTime)">
+            <summary>
+            méthode qui définit le mois suivant au mois passé en paramètre sous la forme: 01 pour janvier, 02 pour février...
+            </summary>
+            <param name="mois">un mois sous la forme 01, 02...</param>
+            <returns>une chaine de 2 chiffres sous la forme: 01 pour janvier</returns>
+        </member>
+        <member name="M:ProjetGSB.GestionDates.AjouteUnAuMois(System.Int32)">
+            <summary>
+            Méthode qui ajoute 1 au mois passé en paramètre
+            </summary>
+            <param name="mois"> mois auquel il faut ajouter 1</param>
+            <returns>le mois suivant au format chaine 01 pour janvier...</returns>
+        </member>
+        <member name="M:ProjetGSB.GestionDates.Entre(System.Int32,System.Int32)">
+            <summary>
+            Méthode qui teste si le jour actuel est compris entre les jours passés en paramètres
+            </summary>
+            <param name="numJour1">numero du jour 1</param>
+            <param name="numJour2">numéro du jour 2</param>
+            <returns> Vrai si le jour actuel est compris entre les jours 1 et 2</returns>
+        </member>
+        <member name="M:ProjetGSB.GestionDates.Entre(System.Int32,System.Int32,System.DateTime)">
+            <summary>
+            Méthode qui teste si le jour de la datetime passée en paramètre est compris entre les jours passés en paramètres
+            </summary>
+            <param name="numJour1">numero du jour 1</param>
+            <param name="numJour2">numéro du jour 2</param>
+            <param name="date"> date au forùat datetime</param>
+            <returns>Vrai si le jour de la datetime passée en paramètre est compris entre les jours 1 et 2</returns>
+        </member>
+        <member name="M:ProjetGSB.GestionDates.VerifieEntre(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Méthode static privée qui vérifie si le numaTester est compris entre le numPlusPetit et le numPlusGrand
+            </summary>
+            <param name="nbPlusPetit">nb qui doit être plus petit que le nb à tester</param>
+            <param name="nbPlusgrand">nb qui doit être plus grand que le nb à tester</param>
+            <param name="nbaTester">nombre à tester</param>
+            <returns>vrai si le numaTester est compris entre le numPlusPetit et le numPlusGrand </returns>
+        </member>
+        <member name="T:ProjetGSB.PdoGsb">
+            <summary>
+            classe de gestion de connexion à la base de données
+            </summary>
+        </member>
+        <member name="P:ProjetGSB.PdoGsb.ChaineConnexion">
+            <summary>
+            chaine de connexion au serveur MySql
+            </summary>
+        </member>
+        <member name="F:ProjetGSB.PdoGsb.server">
+            <summary>
+            nom du serveur MySql
+            </summary>
+        </member>
+        <member name="F:ProjetGSB.PdoGsb.user">
+            <summary>
+            identifiant utilisateur
+            </summary>
+        </member>
+        <member name="F:ProjetGSB.PdoGsb.mdp">
+            <summary>
+            mot de passe utilisateur
+            </summary>
+        </member>
+        <member name="F:ProjetGSB.PdoGsb.database">
+            <summary>
+            nom de la base de donnée à laquelle se connecter
+            </summary>
+        </member>
+        <member name="F:ProjetGSB.PdoGsb.instancePdoGsb">
+            <summary>
+            instance unique de connexion à la base de données
+            </summary>
+        </member>
+        <member name="F:ProjetGSB.PdoGsb.connexion">
+            <summary>
+            connexion mysql
+            </summary>
+        </member>
+        <member name="M:ProjetGSB.PdoGsb.#ctor">
+            <summary>
+            Constructeur privé, sert à créer l'instance Pdo utilisé par les autres méthodes de la classe
+            </summary>
+        </member>
+        <member name="M:ProjetGSB.PdoGsb.InitConnexion">
+            <summary>
+            Méthode pour initialiser une connexion
+            </summary>
+        </member>
+        <member name="M:ProjetGSB.PdoGsb.PdoDestructeur">
+            <summary>
+            Destructeur de la classe Pdo
+            </summary>
+        </member>
+        <member name="M:ProjetGSB.PdoGsb.GetInstancePdoGsb">
+            <summary>
+            (singleton) méthode qui verifie si une instance existe déjà, si ce n'est pas le cas elle en crée une
+            </summary>
+            <returns>retourne l'unique instance PdoGsb</returns>
+        </member>
+        <member name="M:ProjetGSB.PdoGsb.OpenMySqlConnexion">
+            <summary>
+            méthode qui ouvre une connexion mysql
+            </summary>
+        </member>
+        <member name="M:ProjetGSB.PdoGsb.ExecuteRequeteAdministration(System.String)">
+            <summary>
+            Méthode qui execute une requete Update, Delete ou Insert
+            </summary>
+            <param name="requete"></param>
+        </member>
+        <member name="M:ProjetGSB.PdoGsb.ExecuteSelect(System.String)">
+            <summary>
+            méthode qui éxécute une requète SQL de type select
+            </summary>
+            <param name="requete">chaine de requete de type SQL</param>
+            <returns>une liste d'ojets des éléments de la requête</returns>
+        </member>
+        <member name="M:ProjetGSB.PdoGsb.GetUneLigne(System.Collections.Generic.List{System.Object[]},System.Int32)">
+            <summary>
+            méthode retourne la ligne d'une liste d'objet dont l'index est passé en paramètre
+            </summary>
+            <param name="uneListe">une liste de tableaux d'objets</param>
+            <param name="index">numéro d'index de la ligne recherchée</param>
+            <returns>retourne un tableau d'objet</returns>
+        </member>
+        <member name="M:ProjetGSB.PdoGsb.GetUnChamps(System.Object[],System.Int32)">
+            <summary>
+            méthode retourne la valeur d'un champs dans un tableau dont l'index est passé en paramètre
+            </summary>
+            <param name="tabObjets">tableau d'objets</param>
+            <param name="index">numéro d'index du champs recherché</param>
+            <returns>retourne un objet</returns>
+        </member>
+        <member name="M:ProjetGSB.PdoGsb.GetUnChampsduneLigne(System.Collections.Generic.List{System.Object[]},System.Int32,System.Int32)">
+            <summary>
+            méthode retourne la valeur d'un champs dans une liste de tableau d'objet, dont l'index de la liste et du tableau sont passés en paramètre
+            </summary>
+            <param name="uneliste">une liste de tableaux d'objets</param>
+            <param name="indexListe">numéro d'index de la ligne recherchée</param>
+            <param name="indexChamps">numéro d'index du champs recherché</param>
+            <returns>retourne un objet</returns>
+        </member>
+        <member name="T:ProjetGSB.Program">
+            <summary>
+            classe de lancement de l'application
+            </summary>
+        </member>
+        <member name="M:ProjetGSB.Program.Run">
+            <summary>
+            méthode qui lance les traitements effectués par l'application
+            </summary>
+            <param name="source"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ProjetGSB.Program.SetTimer">
+            <summary>
+            méthode démarre le timer et qui execute la méthode run en fonction de ce timer
+            </summary>
+        </member>
+        <member name="M:ProjetGSB.Program.Main(System.String[])">
+            <summary>
+            lancement de l'application : démarrage du timer
+            </summary>
+            <param name="args"></param>
+        </member>
+    </members>
+</doc>
